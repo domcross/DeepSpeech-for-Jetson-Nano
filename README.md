@@ -1,2 +1,2 @@
 # DeepSpeech-for-Jetson-Nano
-See release for Wheelsfiles with Tensorflow and DeepSpeech compiled for NVidia Jetson Nano (arm64)
+See [releases](https://github.com/domcross/DeepSpeech-for-Jetson-Nano/releases) for binary and wheel files with Tensorflow and DeepSpeech compiled for NVidia Jetson Nano (arm64)
